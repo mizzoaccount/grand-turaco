@@ -53,7 +53,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Grand | Turaco",
-  description: "Empowering Christian Lives",
+  description: "oaring Stories",
 };
 
 export default function RootLayout({
